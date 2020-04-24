@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8003
+  application:
+    name: lib-4-adjective
+
